@@ -8,9 +8,7 @@ Comes in two parts - the bottom shell, and the top shell.
 The top shell has a cutout for the ZIF socket and a finger cutout so the ZIF lever can be accessed.  It also has a cutout for an IDC
 connector to be plugged into the serial port connector.
 
-=======
-
-NOTE: This case requires the voltage regulator to be moved to the underside of the board.  If your 7805 is one with a metal back then it'll\
+---
+NOTE: This case requires the voltage regulator to be moved to the underside of the board.  If your 7805 is one with a metal back then it'll
 need to be insulated (mine is a fully plastic package).
-
-=======
+---
